@@ -87,7 +87,7 @@ should print out 'hi' to the console three times in a row.
 The **public interface** (the variables or functions that users
 of your module access) is thus cleaner, easier to understand,
 and less susceptible to conflicts. This is what the module pattern accomplishes
-through the handy scoping effects of the <abbr data-toggle="tooltip" title="Immediately-Invoked Function Expression">IIFE</abbr>.</div><div class="part">
+through the handy scoping effects of the IIFE
 
 #### Part III: Organizing code with the revealing module pattern
 
