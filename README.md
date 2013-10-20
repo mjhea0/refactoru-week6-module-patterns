@@ -100,7 +100,7 @@ accomplishment, but in the previous **module pattern**, you couldn't accessrepea
 literal on which they are defined is being returned immediately, so you can't access
 other properties from within the object. In the **revealing module pattern**, because variables
 are first declared in the local scope before being returned in an object, they have access
-to each other.</div>
+to each other.
 
 **Success!** You now have three techniques for organizing and encapsulating your code.
 Whether you are writing code on a team or writing libraries for thousands of developers
