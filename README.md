@@ -22,13 +22,11 @@ should print out 'hi' to the console three times in a row.
 
 ### Resources
 
-<!--*   [Module Demo Code](https://github.com/refactoru/student-sample-code/)
--->*   [Immediately Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
+*   [Immediately Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
 *   [Using Objects to Organize Your Code](http://rmurphey.com/blog/2009/10/15/using-objects-to-organize-your-code/)
 *   [Learning Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Requirements
-<div class="space-children-3"><div class="part">
 
 #### Part I: Organizing code with object literals
 
@@ -108,6 +106,3 @@ to each other.</div>
 Whether you are writing code on a team or writing libraries for thousands of developers
 you will have complete control over which variables are publically accessible and which are
 internal to your script.
-
-<script>$('[data-toggle=tooltip]').tooltip();
-</script></div>
